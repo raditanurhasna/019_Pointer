@@ -6,3 +6,4 @@ public:
 	int nim;
 	void showNim();
 };
+
